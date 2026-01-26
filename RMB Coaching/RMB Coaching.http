@@ -1,0 +1,6 @@
+@RMB_Coaching_HostAddress = http://localhost:5082
+
+GET {{RMB_Coaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
